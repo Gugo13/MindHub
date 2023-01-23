@@ -1,0 +1,23 @@
+*{
+    background-color: darkgrey;
+}
+
+.logo{
+    float: left;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar{
+    text-align: center;
+}
+
+.navbar a{
+    color: black;
+    text-shadow: 5px 5px 10px;
+}
+
+
+
